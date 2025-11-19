@@ -1,0 +1,4 @@
+mathplot.lib
+pandas
+streamlit
+seaborn
